@@ -1,0 +1,66 @@
+{
+  "name": "waspha-admin-new",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@bb-tech/ra-treemenu": "^1.0.6",
+    "@date-io/date-fns": "1.x",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@material-ui/pickers": "^3.3.10",
+    "@mui/icons-material": "^5.0.1",
+    "@mui/material": "^5.0.2",
+    "@react-google-maps/api": "^2.2.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "admin-on-rest": "^1.4.1",
+    "browser-image-compression": "^1.0.17",
+    "date-fns": "^2.24.0",
+    "lodash": "^4.17.20",
+    "material-ui": "^0.20.2",
+    "moment": "^2.29.1",
+    "prop-types": "^15.7.2",
+    "ra-data-json-server": "^3.9.6",
+    "ra-input-rich-text": "^3.14.0",
+    "ra-language-arabic": "^0.1.5",
+    "ra-language-french": "^3.12.1",
+    "react": "^17.0.1",
+    "react-admin": "^3.9.6",
+    "react-admin-date-inputs2": "^1.1.9",
+    "react-checkbox-tree": "^1.6.0",
+    "react-dom": "^17.0.1",
+    "react-google-maps": "^9.4.5",
+    "react-google-places-autocomplete": "3.1.1",
+    "react-icons": "^3.11.0",
+    "react-minimal-pie-chart": "^8.1.0",
+    "react-phone-input-2": "^2.13.8",
+    "react-scripts": "4.0.0",
+    "recharts": "^1.8.5",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
